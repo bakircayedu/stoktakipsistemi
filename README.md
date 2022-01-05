@@ -1,0 +1,2 @@
+# stoktakipsistemi
+erdemungor-burakdemirtas
